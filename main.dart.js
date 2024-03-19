@@ -58900,7 +58900,7 @@ A.xX.prototype={
 T(a){return B.Cf}}
 A.Bs.prototype={
 T(a){var s,r=null,q=t.c
-q=A.a([new A.Ec(new A.jD(B.eN,new A.zg(B.aQ,B.qR,B.fs,B.lh,r,B.jU,r,A.a([new A.yy(A.Sx("assets/img_hello_git.jpg").c,150,r),B.uh,B.IL,B.uh,A.amo("Flutter - Dart - Project Management",A.bo(a).p3.Q,B.bH,r,2),B.Et,A.a9_(A.a([A.a9A(A.nV(A.Sx("assets/github-mark.png"),20,20),B.IN,new A.TA()),A.a9A(A.nV(A.Sx("assets/medium.png"),20,20),B.IQ,new A.TB()),A.abH(A.a9A(A.nV(A.Sx("assets/linkedin.png"),20,20),B.IO,new A.TC()))],q),B.qR,B.fs),B.Es,B.IM,B.Eu,B.IP],q),r),r),!1,r)],q)
+q=A.a([new A.Ec(new A.jD(B.eN,new A.zg(B.aQ,B.qR,B.fs,B.lh,r,B.jU,r,A.a([new A.yy(A.Sx("assets/img_hello_git.jpg").c,150,r),B.uh,B.IL,B.uh,A.amo("Swift - SwiftUI - Flutter - Dart - Project Management",A.bo(a).p3.Q,B.bH,r,2),B.Et,A.a9_(A.a([A.a9A(A.nV(A.Sx("assets/github-mark.png"),20,20),B.IN,new A.TA()),A.a9A(A.nV(A.Sx("assets/medium.png"),20,20),B.IQ,new A.TB()),A.abH(A.a9A(A.nV(A.Sx("assets/linkedin.png"),20,20),B.IO,new A.TC()))],q),B.qR,B.fs),B.Es,B.IM,B.Eu,B.IP],q),r),r),!1,r)],q)
 s=!0
 s=s?B.uZ:r
 return new A.r0(new A.tV(new A.zw(q,B.aQ,!1,r,r,s,r,!1,r,0,r,r,B.aX,B.Dh,r,B.aj,r),r),r)}}
